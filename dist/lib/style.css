@@ -83,9 +83,16 @@
   }
 }
 
+.item {
+  font-size: 20px;
+}
 
 .modal {
   margin-top: 60px;
+}
+.item img {
+  height: 800px !important;
+  width: 100% !important;
 }
 
 /*modal login*/
